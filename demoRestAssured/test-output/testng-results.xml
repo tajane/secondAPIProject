@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5564" started-at="2021-01-16T12:26:34 IST" finished-at="2021-01-16T12:26:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5564" started-at="2021-01-16T12:26:34 IST" finished-at="2021-01-16T12:26:40 IST">
+      <class name="demoRestAssured.staticjsondatausingfile">
+        <test-method status="PASS" signature="staticJsonData()[pri:0, instance:demoRestAssured.staticjsondatausingfile@35047d03]" name="staticJsonData" duration-ms="5463" started-at="2021-01-16T12:26:34 IST" finished-at="2021-01-16T12:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staticJsonData -->
+      </class> <!-- demoRestAssured.staticjsondatausingfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
